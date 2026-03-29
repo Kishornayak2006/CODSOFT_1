@@ -100,7 +100,7 @@ This project uses static demo data (no backend/database).
 ## 🙌 Author
 
 Kishor C
-B.E CSE (AI & ML)
+
 
 ---
 
