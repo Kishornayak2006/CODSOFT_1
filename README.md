@@ -62,13 +62,13 @@ src/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/ecommerce-project.git
+git clone https://github.com/Kishornayak2006/CODSOFT_1.git
 ```
 
 2. Navigate to project folder
 
 ```
-cd ecommerce-project
+cd CODSOFT_1
 ```
 
 3. Install dependencies
